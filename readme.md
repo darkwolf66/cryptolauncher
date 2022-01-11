@@ -52,19 +52,19 @@ Next you need to run ```truffle develop``` to start using it.
 Before running compile and migrate inside the truffle console, you need to go on the /cryptolauncher/contracts
 and setup a few stuff here:
 
-#### On /lowfee/contracts/CryptoLauncher.sol
+#### On /cryptolauncher/contracts/CryptoLauncher.sol
 Change the _owner to your wallet who is going to be used as admin.
 You can set the _platformFee to what you believe is a fair fee.
 
 Remember to run the compile and migrate before start using it. And keep it running while developing.
 
-#### Preparing React /lowfee/client
+#### Preparing React /cryptolauncher/client
 Now make sure you opened a new terminal while truffle is running and you can do
 ```bash
   cd cryptolauncher/client
   npm install
 ```
-After that you can check the /lowfee/client/src/index.js where you can set the config for web3, drizzle, truffle and other stuff.
+After that you can check the /cryptolauncher/client/src/index.js where you can set the config for web3, drizzle, truffle and other stuff.
 
 ## Authors
 
