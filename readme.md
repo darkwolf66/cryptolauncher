@@ -1,4 +1,5 @@
-#CryptoLauncher a low fee token launcher
+# CryptoLauncher a low fee token launcher
+
 Cryptolauncher is a fork from the [LowFee](https://github.com/darkwolf66/lowfee) project who envision to give access to a secure BEP20/ERC20 token launcher with no need for code integration and open source. We believe by giving power to people to launch their own tokens without bureaucracy or high fees we give a next step into the crypto economy.
 
 What about you be part of this crypto revolution, either by supporting or using it.
